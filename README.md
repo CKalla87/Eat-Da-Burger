@@ -1,7 +1,7 @@
 # Eat-Da-Burger
 A restaurant app that lets users input the names of burgers they'd like to eat.
 
-1. Install all the npm packages needed. Please visit site: https://shielded-hamlet-98989.herokuapp.com/
+1. Install all the npm packages needed. Please visit site: https://floating-reef-10843.herokuapp.com/
 
 2. You will be given the option to "Destroy It" which is adding a burger to the "Burgers That Have Been Eaten" list.
 
