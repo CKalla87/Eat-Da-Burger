@@ -1,7 +1,9 @@
 # Eat-Da-Burger
 A restaurant app that lets users input the names of burgers they'd like to eat.
 
-1. Install all the npm packages needed. Please visit site: https://fierce-bayou-60098.herokuapp.com/
+1. Please visit site: https://fierce-bayou-60098.herokuapp.com/ to veiw this application.
+
+1. To run the app on your local machine make sure to install the npm packages needed. 
 
 2. You will be given the option to "Destroy It" which is adding a burger to the "Burgers That Have Been Eaten" list.
 
